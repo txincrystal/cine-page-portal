@@ -3,3 +3,4 @@
 # https://www.iyf.tv/
 # https://www.npmjs.com/package/tcplayer.js
 # https://www.baidu.com/
+# https://www.baidu2.com/
